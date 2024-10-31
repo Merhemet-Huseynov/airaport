@@ -3,5 +3,3 @@ class Dog:
         self.name = name
         self.age = age
 
-doberman = Dog("doberman", 3)
-
